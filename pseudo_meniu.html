@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>SEMAFORUL</title>
+    
+    <style>
+        .uno{
+            background-color: black;
+            padding: 20px 1px 300px 1px; 
+            padding-left: 10px; 
+            margin-top: 1px; 
+            border-left: 15px solid orange;
+            width: 200px;
+        }
+
+        .duo{
+            margin-right:10px;
+            padding-bottom: 100px;
+        }
+
+       .col{
+            width: 100px;
+            height: 100px;
+            background-color: grey;
+            border-radius: 100%;
+            margin-bottom: 25px;
+        }
+        /* .first:hover{
+            background-color: red;
+        }
+        .second:hover{
+            background-color: yellow;
+        }
+        .last:hover{
+            background-color: green;
+        } */
+        
+        ul>li:first-child:hover{
+            background-color: red;
+        }
+        ul>li:nth-last-child(2):hover{
+            background-color: yellow;
+        }
+        ul>li:last-child:hover{
+            background-color: green;
+        }
+  </style>
+</head>
+<body>
+    
+        <div class="uno">
+            <div class="duo">
+                <ul>
+                    <li class="col first"></li>
+                    <li class="col second"></li>
+                    <li class="col last"></li>
+                </ul>
+            
+            </div>
+        </div>
+    
+</body>
+</html>
