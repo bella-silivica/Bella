@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline Elements Example-Airport</title>
+    <style>
+
+        #square{
+            background-color: white;
+            width: 600px;
+            height: 600px;
+            border: 10px solid#999;
+            padding: 10px;
+        }
+
+        #park{
+            width: 400px;
+            height: 400px;
+            background-color: lightgreen;
+            border-right: 20px solid green;
+        }
+
+        #building-1{
+            width: 180px;
+            height: 400px;
+            background-color: blue;
+            margin-top: -400px;
+            border-bottom: 20px solid green;
+            float: right;
+        }
+
+        #building-2{
+            width: 400px;
+            height: 180px;
+            background-color: blue;
+            margin-right: -40px;
+            float: left;
+            border-top: 20px solid green;
+            padding-right: 20px;
+        }
+
+        #market{
+            background-color: lightgrey;
+            width: 180px;
+            height: 180px;
+            text-align: center;
+            float: right; 
+            border-left: 20px solid green;
+        }
+
+        #market .monument{
+            font-size: 100px;                     
+        }
+
+        #park .tree{
+            font-size: 150px;
+            color: green;
+            float: left;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <section id="square">
+        <div id="park">
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+                <div class="tree">&#5848</div>
+        </div>
+    
+            <div id="building-1"></div>
+            <div id="building-2"></div>
+            <div id="market">
+                <div class="monument">&#9816</div>
+            </div>
+    </section>
+</body>
+</html>
