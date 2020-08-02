@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome Team</title>
+
+    <!--style-reset-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+    <link rel="stylesheet" href="team.css">
+</head>
+<body>
+    
+    <section id="team">
+        <header>
+            <img src="https://appsemo.netlify.app/img/svg/section-icon-2.svg">
+            <h1>Awesome Team</h1>
+            <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo</h2>
+        </header>
+        <div>
+            <figure>
+                <img src="https://appsemo.netlify.app/img/team-img/1.png" alt="SUNNY KHAN">
+                <figcaption>
+                    <h3>SUNNY KHAN</h3>
+                    <p>EXECUTIVE OFFICER</p>
+                    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="15" height="15" alt="Twitter free icon" title="Twitter free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733558.svg" width="15" height="15" alt="Instagram free icon" title="Instagram free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733549.svg" width="15" height="15" alt="Facebook free icon" title="Facebook free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733570.svg" width="15" height="15" alt="Skype free icon" title="Skype free icon">
+                </figcaption>
+            </figure>
+            <figure>
+                <img src="https://appsemo.netlify.app/img/team-img/2.png" alt="AJOY DAS">
+                <figcaption>
+                    <h3>AJOY DAS</h3>
+                    <p>BUSINESS DEVELOPMENT</p>
+                    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="15" height="15" alt="Twitter free icon" title="Twitter free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733558.svg" width="15" height="15" alt="Instagram free icon" title="Instagram free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733549.svg" width="15" height="15" alt="Facebook free icon" title="Facebook free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733570.svg" width="15" height="15" alt="Skype free icon" title="Skype free icon">
+                </figcaption>
+            </figure>
+            <figure>
+                <img src="https://appsemo.netlify.app/img/team-img/3.png" alt="AFROZA MOU">
+                <figcaption>
+                    <h3>AFROZA MOU</h3>
+                    <p>UX/UI DESIGNER</p>
+                    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="15" height="15" alt="Twitter free icon" title="Twitter free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733558.svg" width="15" height="15" alt="Instagram free icon" title="Instagram free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733549.svg" width="15" height="15" alt="Facebook free icon" title="Facebook free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733570.svg" width="15" height="15" alt="Skype free icon" title="Skype free icon">
+                </figcaption>
+            </figure>
+            <figure>
+                <img src="https://appsemo.netlify.app/img/team-img/4.png" alt="LIM SARAH">
+                <figcaption>
+                    <h3>LIM SARAH</h3>
+                    <p>HEAD OF MARKETING</p>
+                    <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="15" height="15" alt="Twitter free icon" title="Twitter free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733558.svg" width="15" height="15" alt="Instagram free icon" title="Instagram free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733549.svg" width="15" height="15" alt="Facebook free icon" title="Facebook free icon">
+                    <img src="https://image.flaticon.com/icons/svg/733/733570.svg" width="15" height="15" alt="Skype free icon" title="Skype free icon">
+                </figcaption>
+            </figure>
+        </div>
+
+    </section>
+</body>
+</html>
