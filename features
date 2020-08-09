@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>La App - Features</title>
+    <link rel="stylesheet" href="features.css">
+</head>
+<body>
+    
+    <section id="features">
+        <div class="deco">
+            G
+        </div>
+
+        <div class="container">
+            <header>
+                <h1>POWERFUL FEATURES AWAIT FOR YOU</h1>
+                <h2>A complete feature<br>stack ready to help<br>you</h2>
+                <h3>Laboris nisi ut aliquip ex ea commodo consequat.</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscig elit, sed do eiusmod tempor incididunt ut labore aliqua. Ut enim adi minim veniam, quis nostrud exercitation</p>
+                <a href="">Know More &RightArrow;</a>
+            </header>
+            <ul>
+                <li>
+                    <img src="https://image.flaticon.com/icons/svg/751/751446.svg" width="40px" height="40px">
+                    <h3>Customizable</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam, similique adipisci provident iure repellendus magnam.</p>
+                </li>
+                <li>
+                    <img src="https://image.flaticon.com/icons/svg/702/702814.svg" width="40px" height="40px">
+                    <h3>Creative</h3>
+                    <p>Eos totam pariatur, voluptates consectetur deleniti enim. Rerum quo at iusto voluptatum fuga possimus eos.</p>
+                </li>
+                <li>
+                    <img src="https://image.flaticon.com/icons/svg/636/636600.svg" width="40px" height="40px">
+                    <h3>Powerful Design</h3>
+                    <p>Facere doloremque atque quae deleniti obcaecati, tenetur dolor animi beatae voluptatum eligendi nemo delectus deserunt.</p>
+                </li>
+                <li>
+                    <img src="https://image.flaticon.com/icons/png/512/2769/2769280.png" width="40px" height="40px">
+                    <h3>Affordable</h3>
+                    <p>Architecto nisi consequuntur impedit blanditiis iste id reprehenderit natus, iusto, sed perspiciatis itaque sunt nemo.</p>
+                </li>
+            </ul>
+        </div>  
+        
+    </section>
+</body>
+</html>
